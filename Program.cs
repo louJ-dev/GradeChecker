@@ -13,28 +13,7 @@ public class Program
             new Subject("2", "CP 2"), 
             new Subject("3", "OOP"), 
         };
-/*
-        for(int i = 0; i < n; i++)
-        {
-            Console.Write("Subject Name: ");
-            
-            string name = string.Empty;
-            while(name == "")
-            {
-                name = (Console.ReadLine() ?? " ").Trim();
-            }
 
-            Console.Write("Subject Code: ");
-
-            string code = string.Empty;
-            while(code == "")
-            {
-                code = (Console.ReadLine() ?? " ").Trim();
-            }
-
-            subjects[i] = new Subject(code, name);
-        }
-*/
         string[] data = new string[subjects.Length];
 
         for (int i = 0; i < subjects.Length; i++)

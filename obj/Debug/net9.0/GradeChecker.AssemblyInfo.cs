@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GradeChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ba1406ab57db7ec0dc8168508c9c5372ba128d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("GradeChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GradeChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

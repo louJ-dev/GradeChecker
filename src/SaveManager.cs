@@ -10,7 +10,7 @@ public static class SaveManager
         {
             Utf8JsonWriter writer = new Utf8JsonWriter(sw, new JsonWriterOptions() {
                     Indented = true
-                    });
+                });
 
             writer.WriteStartObject();
             writer.WriteStartArray("subjects");
