@@ -1,0 +1,19 @@
+{
+  "subjects": [
+    {
+      "name": "App dev",
+      "code": "1",
+      "grade": -1
+    },
+    {
+      "name": "CP 2",
+      "code": "2",
+      "grade": -1
+    },
+    {
+      "name": "OOP",
+      "code": "3",
+      "grade": -1
+    }
+  ]
+}

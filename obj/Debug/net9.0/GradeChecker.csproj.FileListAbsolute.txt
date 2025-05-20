@@ -1,0 +1,14 @@
+C:\Users\tristan\Documents\jeric\GradeChecker\bin\Debug\net9.0\GradeChecker.exe
+C:\Users\tristan\Documents\jeric\GradeChecker\bin\Debug\net9.0\GradeChecker.deps.json
+C:\Users\tristan\Documents\jeric\GradeChecker\bin\Debug\net9.0\GradeChecker.runtimeconfig.json
+C:\Users\tristan\Documents\jeric\GradeChecker\bin\Debug\net9.0\GradeChecker.dll
+C:\Users\tristan\Documents\jeric\GradeChecker\bin\Debug\net9.0\GradeChecker.pdb
+C:\Users\tristan\Documents\jeric\GradeChecker\obj\Debug\net9.0\GradeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tristan\Documents\jeric\GradeChecker\obj\Debug\net9.0\GradeChecker.AssemblyInfoInputs.cache
+C:\Users\tristan\Documents\jeric\GradeChecker\obj\Debug\net9.0\GradeChecker.AssemblyInfo.cs
+C:\Users\tristan\Documents\jeric\GradeChecker\obj\Debug\net9.0\GradeChecker.csproj.CoreCompileInputs.cache
+C:\Users\tristan\Documents\jeric\GradeChecker\obj\Debug\net9.0\GradeChecker.dll
+C:\Users\tristan\Documents\jeric\GradeChecker\obj\Debug\net9.0\refint\GradeChecker.dll
+C:\Users\tristan\Documents\jeric\GradeChecker\obj\Debug\net9.0\GradeChecker.pdb
+C:\Users\tristan\Documents\jeric\GradeChecker\obj\Debug\net9.0\GradeChecker.genruntimeconfig.cache
+C:\Users\tristan\Documents\jeric\GradeChecker\obj\Debug\net9.0\ref\GradeChecker.dll
